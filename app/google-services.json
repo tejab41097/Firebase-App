@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992078515373",
+    "firebase_url": "https://fir-app-33753.firebaseio.com",
+    "project_id": "fir-app-33753",
+    "storage_bucket": "fir-app-33753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992078515373:android:ae65c3f025025df7",
+        "android_client_info": {
+          "package_name": "com.tejab.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992078515373-bl4tvpssnvls50l36u33741mtksppvm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tejab.firebaseapp",
+            "certificate_hash": "caafeffa197c6b2497c0a747f17b62d7d1f4591d"
+          }
+        },
+        {
+          "client_id": "992078515373-22nmvmv2lmurqdi51qnu2pjuhbv87aq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4DhV9a1eH_9J_7mzgxztNelT9SsjZu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992078515373-22nmvmv2lmurqdi51qnu2pjuhbv87aq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
